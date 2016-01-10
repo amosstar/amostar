@@ -1,0 +1,2 @@
+# amostar
+my github blog
